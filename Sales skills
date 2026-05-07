@@ -1,0 +1,244 @@
+# Ravs — Skills Operating System v2
+
+> *"Strategy without shipping is just expensive journaling."*
+
+---
+
+## 🎯 Mission
+
+Build a **$10K/month AI + Finance business** by Q4 2026 that serves two audiences I uniquely understand:
+
+1. **Tamil-speaking immigrants** in the US who need help navigating money, credit, and AI
+2. **Small trades businesses** (lawn care, HVAC, plumbing, pressure washing) that need automation but can't afford agencies
+
+**The unfair advantage:** Biotech background + AI fluency + immigrant lived experience + Tamil language + actually-running-a-trades-business credibility.
+
+**The honest constraint:** I have a young child, no stable W-2, and a documented pattern of strategizing instead of shipping. Every skill below is judged by one question — *does this help me ship this week?*
+
+---
+
+## ⚠️ The Anti-Pattern I'm Fighting
+
+Across the last 6 months I've planned:
+- AI automation agency (dental, then real estate, then trades)
+- Lawn care + pressure washing business
+- "Trades Business in a Box" GHL snapshot
+- FormFlow AI (loan officer form automation)
+- 30-day YouTube content calendar (trades AI niche)
+- Tamil YouTube channel (AI + finance)
+- Short-form immigrant finance content (13 formats)
+- "Receipt Autopsy" series
+
+**That's 8 launches planned, 0 fully shipped.** The skill I need most is not another framework — it's *finishing one thing before opening the next tab.*
+
+**Rule:** No new venture added to this doc until the current focus has shipped a public deliverable.
+
+**Current focus (locked):** Tamil YouTube Channel — Video #1 filmed and uploaded.
+
+---
+
+## 💰 1. Sales & Offer Skills
+
+### Cold Outreach (Trades-Specific)
+- **Nextdoor + Facebook Groups** — the actual channels for lawn care/pressure washing in Morrisville/Cary/Raleigh, not LinkedIn
+- Door-hanger and yard-sign copy (offline beats DM for local trades)
+- Google Business Profile optimization — the #1 free lead source I'm under-using
+- Cold-calling small trades businesses for the GHL snapshot offer (script practice required)
+
+### Offer Construction
+- **Trades stack:** Lawn care job → upsell pressure washing → recurring monthly maintenance contract
+- **GHL stack:** Free snapshot demo → $297 setup → $97/mo affiliate recurring
+- **FormFlow stack:** Free 1-form audit → $497 done-for-you setup → $197/mo per loan officer
+- **Tamil channel stack:** Free YouTube → email list → $47 mini-course → $297 group cohort
+- Pricing rule: never hourly, always packaged outcome with a clear before/after
+
+### Closing Conversations
+- Handling "I need to think about it" without folding
+- The 3-question discovery: *What's broken? What have you tried? What's it costing you?*
+- Writing the proposal in 1 page, not 8 slides
+- Following up 5x without being a pest (this is where most of my deals will die or live)
+
+---
+
+## ⚙️ 2. AI & Automation Stack
+
+### Tools I Actually Use (or should)
+- **Claude** — long-form planning, copy, scripts, code review (this doc lives here)
+- **Claude Code + MCP** — agentic coding, file editing, the unfair-advantage tool I keep researching but barely using
+- **n8n** — self-hosted automation, the engine for FormFlow and trades workflows
+- **GoHighLevel** — CRM, funnels, pipelines, the platform I'm an affiliate for
+- **Make / Zapier** — quick glue when n8n is overkill
+- **Airtable + Tally + Softr/Carrd** — the no-code lead-gen + quoting tool stack
+- **Twilio + Stripe** — SMS and payments inside the no-code stack
+- **Playwright** — browser automation for FormFlow's multi-platform form filling
+
+### Workflows I Need to Actually Build (not just plan)
+1. **Lawn-care lead intake:** Nextdoor inquiry → Tally form → Airtable → SMS quote in <5 min
+2. **GHL trades snapshot:** missed-call text-back, review request, estimate follow-up, reactivation
+3. **FormFlow MVP:** loan officer uploads borrower data once → fills 3 lender portals via Playwright + Claude API
+4. **Tamil YT pipeline:** topic idea → Claude script draft → teleprompter → upload → repurpose to Shorts
+
+### The Technical Depth Gap (honest list)
+- I can describe APIs better than I can ship with them — fix by building, not reading
+- I keep "researching" Claude Code instead of using it for one real project
+- n8n: I've watched tutorials, I haven't deployed a workflow that runs without me babysitting it
+- Webhooks, auth, error handling — the boring middle that turns demos into products
+
+---
+
+## 📊 3. Finance & Wealth (The Brand Edge)
+
+### Personal Finance — Tamil Audience Lens
+- US credit system explained for someone who arrived 2 years ago (SSN, secured cards, utilization, AAoA)
+- Tax basics: W-2 vs 1099, ITIN filing, what immigrants overpay every April
+- Budgeting in two currencies (USD income, INR family obligations) — almost no one teaches this
+- HSA, 401(k) match, Roth IRA — the "free money" most first-gen immigrants miss for years
+- H1B / GC / citizenship financial implications (when to buy a house, when not to)
+
+### Investing
+- Index funds (VOO, VTI, VXUS) and *why three letters beat stock-picking*
+- Bogleheads three-fund portfolio explained in Tamil
+- The math of compounding shown visually, not as a lecture
+- Why real estate is not always the answer for immigrants (vs. what parents say)
+
+### Teaching Method (My Edge)
+- **"Receipt Autopsy"** format — pull a real receipt/paystub/credit card statement, dissect it on camera
+- Tamil-English code-switching the way my audience actually talks
+- Frame everything around the *amma test* — would my mother understand this?
+- Story-first, lesson-second — never the other way around
+
+---
+
+## 📢 4. Content & Audience (The 0→1 Skill I Suck At Most)
+
+### Tamil YouTube Channel — The Only Content Project Right Now
+- **Niche:** AI tools + personal finance for Tamil-speaking immigrants in the US
+- **Format mix:** 60% finance education, 30% AI tutorials, 10% immigrant story/identity
+- **Cadence (realistic):** 1 long-form per week + 2 Shorts repurposed from it
+- **Equipment minimum viable:** phone camera, $30 lavalier, free DaVinci Resolve, natural light
+- **Stop optimizing:** thumbnail, title, hook can be improved at video #10, not video #1
+
+### Writing
+- Hook-first newsletter format (first line earns the second line)
+- 2000-word educational posts that double as YouTube scripts
+- The *immigrant journey* personal narrative — written once, woven into content forever
+- Email sequences (welcome, nurture, pitch) for the eventual list
+
+### Distribution Discipline
+- One platform mastered > five platforms half-assed → **YouTube first, everything else is repurposing**
+- Repurpose pipeline: Long-form YT → Shorts → LinkedIn carousel → Newsletter → Tweet thread
+- Reply to every comment on first 50 videos (this is how 0→1 actually happens)
+
+---
+
+## 🏗️ 5. Trades Business Execution (The Cash-Flow Engine)
+
+### Lawn Care + Pressure Washing — Morrisville/Cary/Raleigh
+- **Vehicle reality check:** what fits in current car vs. what requires a trailer (push mower + blower + trimmer = doable; ZTR = not yet)
+- **Pricing:** $40 minimum visit, $50–$80 standard residential, recurring beats one-off every time
+- **Customer acquisition:** Nextdoor neighborhood-by-neighborhood, Facebook local groups, door hangers in target subdivisions
+- **The "first 10 customers" sprint** — don't optimize, just get reps and reviews
+- **Insurance + LLC** — not optional, do this before customer #1
+
+### Trades Business in a Box (GHL Snapshot)
+- Pre-built workflows: missed-call text-back, review automation, quote follow-up, reactivation
+- Niche pages for: lawn care, pressure washing, HVAC, plumbing, handyman
+- **Validation path:** use it on my own lawn business first → get results → sell the same thing
+- Distribution: YouTube tutorials (the 30-day calendar already exists) → free walkthrough → GHL signup via affiliate link
+
+---
+
+## 🤖 6. FormFlow AI (The Premium Play)
+
+The most defensible idea on this list because it solves a $$$ pain for a niche I've researched.
+
+- **Target:** independent loan officers and small mortgage brokers drowning in repetitive multi-portal data entry
+- **MVP scope:** one borrower intake → auto-fill 3 lender portals via Playwright + Claude API
+- **Bootstrap budget:** under $300 (n8n self-hosted, Claude API credits, one landing page)
+- **Validation before building:** 10 loan officer conversations *before* writing a line of code
+- **Pricing target:** $497 setup + $197/mo per loan officer
+
+**Honest blocker:** I will be tempted to build this before validating. Validate first.
+
+---
+
+## 🧠 7. Learning & Thinking
+
+### Reading System
+- Currently consuming finance/investing books faster than I'm applying them
+- New rule: one book → one piece of public content → one personal experiment, before starting the next book
+- Note-to-output ratio target: every Kindle highlight should produce a tweet, a video segment, or a journal entry
+
+### Thinking Tools
+- **First principles** — when stuck, strip the assumption ("do I really need X to start, or am I hiding behind it?")
+- **Systems thinking** — every customer I serve should make the next customer easier (templates, testimonials, repeatable scripts)
+- **Leverage audit** — weekly: what did I do once that paid me twice? Do more of that.
+- **Inversion** — "what would guarantee this fails?" then don't do those things
+
+---
+
+## 🚀 8. Brutal Skill Gaps
+
+| Gap | Evidence | Fix |
+|---|---|---|
+| Shipping over planning | 8 ventures planned, 0 launched | Lock current focus, no new ideas in doc |
+| Technical depth | Can describe APIs, struggle to ship them | Build FormFlow MVP, no more tutorials |
+| Audience building | 0 subscribers anywhere | Tamil YT video #1 this week, video #10 in 10 weeks |
+| Sales reps | Haven't pitched a paid offer in months | 5 cold conversations/week minimum |
+| Consistency | Bursts of work followed by silence | 5 hrs/week minimum, calendar-blocked, non-negotiable |
+| Saying no | Every shiny idea gets a doc | This anti-pattern section, re-read weekly |
+
+---
+
+## 🎯 9. 90-Day Execution Plan (Honest, Not Aspirational)
+
+### Days 1–30: Ship Something Public
+- [ ] Tamil YouTube video #1 filmed and uploaded (this week)
+- [ ] Videos #2, #3, #4 (one per week)
+- [ ] Lawn care: LLC + insurance + Nextdoor profile + first 3 customers
+- [ ] 10 loan officer conversations for FormFlow validation (no building yet)
+
+### Days 31–60: First Dollar In
+- [ ] First lawn care recurring customer signed
+- [ ] First GHL snapshot affiliate signup from YouTube content
+- [ ] Tamil YT: 8 videos live, first 50 subscribers
+- [ ] FormFlow: paid pilot signed (even at $200) before full build
+
+### Days 61–90: Repeatable Systems
+- [ ] Lawn care: 5+ recurring customers, repeatable acquisition channel identified
+- [ ] FormFlow MVP delivered to pilot, second pilot in pipeline
+- [ ] Tamil YT: 12+ videos, first email signups, first $47 mini-course sale
+- [ ] One stack producing >$1K/month, the others get less attention until it's stable
+
+---
+
+## 💡 10. Monetization Stacks (Ranked by Honest Probability)
+
+| Rank | Stack | Why This Rank | Time to First $1K/mo |
+|---|---|---|---|
+| 1 | **Lawn care + pressure washing** | Cash today, real demand, lowest skill ceiling | 30–60 days |
+| 2 | **GHL affiliate via YouTube trades content** | Recurring, leverages content I'd make anyway | 60–120 days |
+| 3 | **Tamil YouTube → mini-course** | Highest ceiling, slowest 0→1, biggest brand moat | 6–12 months |
+| 4 | **FormFlow AI** | Highest revenue per customer, hardest to validate | 90–180 days |
+
+**Strategic note:** Stack 1 funds my time to build stacks 2–4. Don't quit the trades work the moment content takes off — that's how the money dies.
+
+---
+
+## 🔥 11. Identity
+
+I'm not building a business. I'm building the proof — for my child, for my parents, for every Tamil immigrant who was told to *just get the job and stay quiet* — that you can leverage AI, money, and your own story to buy your freedom in the country you adopted.
+
+**AI + Finance + Discipline + Tamil voice + immigrant story = a moat nobody else has.**
+
+The only thing in the way is me opening another tab instead of finishing the one in front of me.
+
+---
+
+## 📌 Weekly Review Checklist (Sundays, 30 min)
+
+- [ ] What did I ship publicly this week?
+- [ ] What did I plan but not ship? Why?
+- [ ] Did I add a new venture to this doc? (If yes — delete it.)
+- [ ] Top 3 next-week priorities, ranked, written down
+- [ ] One conversation with a real human about a real offer
